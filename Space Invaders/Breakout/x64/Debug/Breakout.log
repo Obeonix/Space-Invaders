@@ -1,0 +1,14 @@
+﻿  backbuffer.cpp
+  background.cpp
+  ball.cpp
+  brick.cpp
+  clock.cpp
+  entity.cpp
+  framecounter.cpp
+  game.cpp
+  level.cpp
+  main.cpp
+  paddle.cpp
+  sprite.cpp
+  Generating Code...
+  Breakout.vcxproj -> C:\Users\Myles\Desktop\Breakout\x64\Debug\Breakout.exe
